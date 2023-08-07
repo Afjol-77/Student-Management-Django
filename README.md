@@ -5,9 +5,9 @@
 * View all students
 * Edit student information
 * Delete student
-
  <br>
-___
+ 
+ ___
 
 Project is created with: 
 * Django 4
