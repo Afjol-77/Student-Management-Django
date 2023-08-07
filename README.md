@@ -6,7 +6,7 @@
 * Edit student information
 * Delete student
 
-[Live App](https://student-management-django.vercel.app/) <br>
+ <br>
 ___
 
 Project is created with: 
